@@ -6,6 +6,7 @@ CampusLands ERP es un sistema diseñado para facilitar la gestión académica de
 
 ## Tabla de Contenidos
 
+
 - [Descripción General](#descripción-general)
 - [Objetivos del Proyecto](#objetivos-del-proyecto)
 - [Roles en el Sistema](#roles-en-el-sistema)
